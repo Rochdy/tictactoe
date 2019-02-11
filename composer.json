@@ -1,0 +1,13 @@
+{
+    "name": "rochdy/tictactoe",
+    "description": "tic tac toe game",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {}
+}
